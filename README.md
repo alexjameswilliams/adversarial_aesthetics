@@ -5,5 +5,5 @@ The artwork videos can be found here: https://youtu.be/V6Ek__uMEIY
 
 Downloadable audio can be found here:
 
-[Signalizer]([https://www.google.com](https://www.jthorborg.com/signalizer.html)) settings can be found in this repository to recreate the visuals in your DAW of choice.
+[Signalizer](https://www.jthorborg.com/signalizer.html) settings can be found in this repository to recreate the visuals in your DAW of choice.
 
